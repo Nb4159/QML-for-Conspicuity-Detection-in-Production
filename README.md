@@ -34,12 +34,12 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Naman Bansal
- - Womanium Program Enrollment ID :
+ - Womanium Program Enrollment ID :WQ24-nNEou3pBkOohlYI
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Davide Laureti
+ - Womanium Program Enrollment ID:WQ24-7TOqvuZzvaR702S
 
 
 ### Project Solution:

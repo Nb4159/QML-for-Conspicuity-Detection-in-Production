@@ -43,11 +43,16 @@ Team Member 2:
 
 
 ### Project Solution:
-In this project, I tackled 5 tasks. The first task, was just getting acquainted with Pennylane as a platform. The second introduced Variational classifiers, and this was used to fit a parity function, and classify Iris dataset Images. For these, tasks I modified the optimizers, and the circuits to achieve the required accuracy in fewer steps, and get the function to converge quickly. For the 3rd task, I used the technique of Quanvolutional Neural Networks, to classify the MNIST data images. To further compare results, I made a custom ResNet-Type architecture on the top of quanvoluted images, to leverage the benfits of classical computing. 
+In this project, I tackled 5 tasks. The first task, was just getting acquainted with Pennylane as a platform. The second introduced Variational classifiers, and this was used to fit a parity function, and classify Iris dataset Images. For these, tasks I modified the optimizers, and the circuits to achieve the required accuracy in fewer steps, and get the function to converge quickly. 
+
+For the 3rd task, I used the technique of Quanvolutional Neural Networks, to classify the MNIST data images. To further compare results, I made a custom ResNet-Type architecture on the top of quanvoluted images, to leverage the benfits of classical computing. 
+
 For the 4th task, I designed a single qubit circuit made up of single qubit rotation gates to fit the parameters, in order to simulate the sine function.
+
 For the 5th task, I apporached the problem with two techniques, Quantum Neural Networks and Quanvolutional Neural Networks, and evaluated their results based on their respective F1 scores. For the QNN, I reduced image dimensionality using PCA and implemented a hybrid model combining classical and quantum layers. For the second method, I applied a Quanvolutional layer on the images, and then passed them as input to a classical model. These results were compared to the passing just the images as it is to the same model, that is without quantum pre-processing.
 
 ### Project Presentation Deck:
 Presentation Deck: https://1drv.ms/p/s!AheCgXOoKvGetUfJFSE23zrdtkND?e=TEKhhv
+
 Recording : https://drive.google.com/file/d/1m6kKl6JqGzvQqRdF2fkdiEYfWnl9ULAJ/view?usp=sharing
 

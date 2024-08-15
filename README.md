@@ -37,9 +37,6 @@ Team Member 1:
  - Womanium Program Enrollment ID :WQ24-nNEou3pBkOohlYI
 
 
-Team Member 2:
- - Full Name: Davide Laureti
- - Womanium Program Enrollment ID:WQ24-7TOqvuZzvaR702S
 
 
 ### Project Solution:
